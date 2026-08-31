@@ -1,2 +1,2 @@
 # MyProject
-it uses for git and git hub learning example projects
+it uses for git and github learning example projects
