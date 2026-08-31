@@ -1,1 +1,1 @@
-first project file '
+this document hold the contents that tell us about the whole project
